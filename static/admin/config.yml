@@ -2,3 +2,6 @@ backend:
   name: github
   repo: https://github.com/phrankie/veganrecipes.git # Path to your Github repository
   branch: dev # Branch to update (master by default)
+
+
+media_folder: "img" # Folder where user uploaded files should go
