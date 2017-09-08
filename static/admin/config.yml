@@ -3,7 +3,7 @@ backend:
   repo: https://github.com/phrankie/veganrecipes.git # Path to your Github repository
   branch: dev # Branch to update (master by default)
 
-media_folder: "img/uploads" # Folder where user uploaded files should go
+media_folder: "img" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
   - name: "about" # Used in routes, e.g., /admin/collections/:slug/edit
